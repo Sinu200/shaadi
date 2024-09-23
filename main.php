@@ -258,8 +258,8 @@ require 'html/header.php';
 
         <section class="Testimonials-textbox">
             <div class="testItem active">
-
-                <p>“The decor was just so exactly how I expected it to be. Me and Gagan want to thankYOU from the
+                <p>
+                    “The decor was just so exactly how I expected it to be. Me and Gagan want to thankYOU from the
                     bottom
                     of our heart. Everyone was so enthralled by the decor of all the 3 functions. And I was
                     personally
@@ -267,65 +267,50 @@ require 'html/header.php';
                     Prachi
                     ma’am and Ankur sir for making our wedding like a dream come true. Prachi ma’am you didn’t deny
                     for
-                    anything. It was always a smile and a yes from you to anything we would be needing or asking
-                    for. I
-                    was so sure that you would do everything with full zeal. Thankyou once again mam, Thankyou for
-                    everything.”</p>
+                </p>
                 <h4>Jane Doe</h4>
                 <span>San Francisco, USA<span>
             </div>
-            <div class="testItem active">
 
+            <div class="testItem active">
                 <p>
                     “Thankyouuu sooo much Prachi Mam- you made our wedding really beautiful as you put in an amazing decor setup for all events. Especially the Haldi carnival was the highlight event for both the families. You gave the whole event a personal touch by being there at all times all through the ceremonies ensuring everything goes smoothly.”
-
                     Palak & Anshit
                     Wedding by wyndham Jaisinghpura.
-                    “Thank you Prachi, Ankur, Ratnika and team, Amit and team. It was an amazing work by you guys from planning to execution to perfection as dreamt by Tanya and all of us. My gratitude to all of you. Will recommend you guys to anyone known who does destination marriage in Rajasthan. If you want us to do anything to promote you guys let us know. Once again thank you from the bottom of my heart. Thankyou so much guys! You made my dream wedding come true!”</p>
-                <h4>Jane Doe</h4>
-                <span>San Francisco, USA<span>
-            </div>
-            <div class="testItem active">
-
-                <p>“The decor was just so exactly how I expected it to be. Me and Gagan want to thank You from the bottom of our heart. Everyone was so enthralled by the decor of all the 3 functions. And I was personally so happy that since the throughout I was lingering on to you ma'am. Thankyou so so so much Prachi ma'am and Ankur sir for making our wedding like a dream come true. Prachi ma'am you didn't deny for anything. It was always a smile and a yes from you to anything we would be needing”
-
-                    Gagan & Tarushi
-                    Wedding in Jaipur
-                    “Thankyouuu sooo much Prachi Mam- you made our wedding really beautiful as you put in an amazing decor setup for all events. Especially the Haldi carnival was the highlight event for both the families. You gave the whole event a personal touch by being there at all times all through the ceremonies ensuring everything goes smoothly.”
-
-                    
 
                 </p>
                 <h4>Jane Doe</h4>
                 <span>San Francisco, USA<span>
             </div>
-            <div class="testItem active">
 
-                <p></p>
+            <div class="testItem active">
+                <p>
+                    “Thank you Prachi, Ankur, Ratnika and team, Amit and team. It was an amazing work by you guys from planning to execution to perfection as dreamt by Tanya and all of us. My gratitude to all of you. Will recommend you guys to anyone known who does destination marriage in Rajasthan. If you want us to do anything to promote you guys let us know. Once again thank you from the bottom of my heart. Thankyou so much guys! You made my dream wedding come true!”
+                </p>
                 <h4>Jane Doe</h4>
                 <span>San Francisco, USA<span>
             </div>
-            <div class="testItem active">
 
-                <p>“The decor was just so exactly how I expected it to be. Me and Gagan want to thankYOU from the
-                    bottom
-                    of our heart. Everyone was so enthralled by the decor of all the 3 functions. And I was
-                    personally
-                    so happy that since the throughout I was lingering on to you ma’am. Thankyou so so so much
-                    Prachi
-                    ma’am and Ankur sir for making our wedding like a dream come true. Prachi ma’am you didn’t deny
+            <div class="testItem active">
+                <p>
+
+                </p>
+                <h4>Jane Doe</h4>
+                <span>San Francisco, USA<span>
+            </div>
+
+            <div class="testItem active">
+                <p>
+                    Ankur sir for making our wedding like a dream come true. Prachi ma’am you didn’t deny
                     for
                     anything. It was always a smile and a yes from you to anything we would be needing or asking
                     for. I
                     was so sure that you would do everything with full zeal. Thankyou once again mam, Thankyou for
-                    everything.”</p>
+                    everything.
+                </p>
                 <h4>Jane Doe</h4>
                 <span>San Francisco, USA<span>
             </div>
-
-
-
-
         </section>
 
         <section class="indicators">
